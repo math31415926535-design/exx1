@@ -5,9 +5,13 @@
 ##### exx1
 ####### exx1
 
+[![demo 影片](https://img.youtube.com/vi/CLaIWJRqCFs/0.jpg)](https://youtu.be/CLaIWJRqCFs?si=00YzNWN9OwMUMx7K)
+
 ![HW.](HW_0.png "這是遊戲畫面")
 
 ![HW.](HW_00.png "這是遊戲畫面")
+
+[無敵粉紅貓貓](https://youtu.be/MILloRE9ki8?si=3g7uBT89ikctSW0g)
 
 [google](https://yahoo.com)
 
