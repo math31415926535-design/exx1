@@ -1,5 +1,3 @@
-https://github.com/user-attachments/assets/10d48237-504d-4f3c-ac9c-4abbd87b61fd
-
 # exx1
 ## exx1
 ### exx1
