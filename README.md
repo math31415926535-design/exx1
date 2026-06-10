@@ -15,6 +15,8 @@
 
 [demo](https://youtu.be/CLaIwJRqCFs?si=00YzNWN9OwMUMx7K)
 
-[遊戲流程圖](DIAGRAMS.md)
+[遊戲流程圖](GAME_FLOW.md)
+
+[UML](UML.md)
 
 test
